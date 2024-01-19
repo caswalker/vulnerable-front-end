@@ -22,12 +22,12 @@
     "body-parser": "^1.15.1",
     "cookie-parser": "^1.4.3",
     "epimetheus": "^1.0.46",
-    "express": "^4.13.4",
+    "express": "4.15.5",
     "express-session": "^1.13.0",
     "finalhandler": "^0.4.1",
     "morgan": "1.9.1",
     "prom-client": "^6.1.0",
-    "request": "^2.72.0",
+    "request": "2.87.0",
     "serve-static": "^1.10.2"
   },
   "devDependencies": {
